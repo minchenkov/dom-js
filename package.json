@@ -1,5 +1,5 @@
 {
-  "name": "dom-js",
+  "name": "dom-js-ns",
   "version": "0.0.3",
   "description" : "XML DOM based on sax",
   "dependencies": {
